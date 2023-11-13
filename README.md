@@ -3,4 +3,4 @@ Olá, Mundo
 
 repositorio criado durante aulas do curso em video
 
-essa linha eu editei diretamente no github qeu legal!!!
+essa linha eu editei diretamente no github qUE legal!!!
